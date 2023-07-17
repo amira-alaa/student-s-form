@@ -1,0 +1,19 @@
+.btn{
+    padding: 2px;
+
+}
+body{
+    background-color:burlywood;
+    font-size: 20px;
+    color: ghostwhite;
+}
+button{
+    margin:  5px;
+    background-color: cornsilk;
+}
+thead{
+    background-color:grey;
+}
+tbody{
+    background-color: darkgrey;
+}
